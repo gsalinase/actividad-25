@@ -1,8 +1,8 @@
 # Ejercicio 25 - Cambio de Servidor y Diagnostico de Problemas en WP
 
-##Problemas de la página web:
+## Problemas de la página web:
 
-###Problemas:
+### Problemas:
 
 - Menú de Inicio con custom link (de modo que no es dinámico).
 - widget's no son dinámicos (están hechos con código pegado dentro dal opción widget de Wordpress).
@@ -14,7 +14,7 @@
 - Crear dinamicamente todos los widget de modo que sea fácil modificar el texto e imágenes para el administrador.
 - Cambiar las imágenes y eliminar el error.
 
-###Valores:
+### Valores:
 
 Los valores se miden en horas de trabajo dedicados a la modificación, creación u otro servicio prestado.
 
@@ -25,16 +25,16 @@ Los valores se miden en horas de trabajo dedicados a la modificación, creación
 - Crear dinamicamente todos los widget de modo que sea fácil modificar el texto e imágenes para el administrador.
     -  ***4 horas ***
 - Cambiar las imágenes y eliminar el error.
-    -  ***1 horas ***
+    -  ***1 horas***
 
 ##### Además:
 
 - Agregar un blog de noticias en la página de inicio,
-    -  ***2 horas ***
+    -  ***2 horas***
 - Cambiar el contenido de todo el sitio, por el que te va a enviar
-    -  ***5 horas *** (dependiendo de la cantidad de contenido que envíe el cliente)
+    -  ***5 horas*** (dependiendo de la cantidad de contenido que envíe el cliente)
 - Crear una página nueva con un portafolio con todos sus clientes, con filtro según industria a la que pertenecen.
-    -  ***5 horas ***
+    -  ***5 horas***
 
 #### Valor Total Arreglos: **19 UF**
 
