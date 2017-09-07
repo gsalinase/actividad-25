@@ -18,7 +18,7 @@
 
 Los valores se miden en horas de trabajo dedicados a la modificación, creación u otro servicio prestado.
 
-####Precio x hora: **1UF**
+#### Precio x hora: **1UF**
 
 - Modificar el menú de inicio para que sea dinámico.
     - ***2 horas.***
