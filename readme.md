@@ -23,7 +23,7 @@ Los valores se miden en horas de trabajo dedicados a la modificación, creación
 - Modificar el menú de inicio para que sea dinámico.
     - ***2 horas.***
 - Crear dinamicamente todos los widget de modo que sea fácil modificar el texto e imágenes para el administrador.
-    -  ***4 horas ***
+    -  ***4 horas***
 - Cambiar las imágenes y eliminar el error.
     -  ***1 horas***
 
